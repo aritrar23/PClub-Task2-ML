@@ -6,4 +6,5 @@ b) I have explained this part in the Jupyter Notebook as well. First I categoriz
 
 c) The code should run fine in any Jupyter Notebook. (Don't use Colab or Kaggle) Note - If some of the losses come out to be very high, just rerun the cell, you will get the correct loss roughly in the same range. Also don't forget to replace the path of the dataset with its respective path in your system.
 
-d) 
+d) Screenshots -
+![alt text](https://github.com/aritrar23/PClub-Task2-ML/blob/main/ScreenShots/Screenshot%20(301).png)
