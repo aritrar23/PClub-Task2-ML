@@ -7,4 +7,13 @@ b) I have explained this part in the Jupyter Notebook as well. First I categoriz
 c) The code should run fine in any Jupyter Notebook. (Don't use Colab or Kaggle) Note - If some of the losses come out to be very high, just rerun the cell, you will get the correct loss roughly in the same range. Also don't forget to replace the path of the dataset with its respective path in your system.
 
 d) Screenshots -
+
 ![alt text](https://github.com/aritrar23/PClub-Task2-ML/blob/main/ScreenShots/Screenshot%20(301).png)
+![alt text](https://github.com/aritrar23/PClub-Task2-ML/blob/main/ScreenShots/Screenshot%20(302).png)
+![alt text](https://github.com/aritrar23/PClub-Task2-ML/blob/main/ScreenShots/Screenshot%20(303).png)
+![alt text](https://github.com/aritrar23/PClub-Task2-ML/blob/main/ScreenShots/Screenshot%20(304).png)
+![alt text](https://github.com/aritrar23/PClub-Task2-ML/blob/main/ScreenShots/Screenshot%20(305).png)
+![alt text](https://github.com/aritrar23/PClub-Task2-ML/blob/main/ScreenShots/Screenshot%20(306).png)
+![alt text](https://github.com/aritrar23/PClub-Task2-ML/blob/main/ScreenShots/Screenshot%20(307).png)
+![alt text](https://github.com/aritrar23/PClub-Task2-ML/blob/main/ScreenShots/Screenshot%20(308).png)
+![alt text](https://github.com/aritrar23/PClub-Task2-ML/blob/main/ScreenShots/Screenshot%20(309).png)
